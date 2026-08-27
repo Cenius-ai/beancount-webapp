@@ -1,0 +1,14 @@
+# Environment
+.env
+
+# Database
+*.db
+*.db-wal
+*.db-shm
+
+# Build artifacts
+beancount
+nimcache/
+
+# Dependencies
+nimble.develop
